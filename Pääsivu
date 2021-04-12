@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="fi">
+    <head>
+        <meta charset="utf-8"/>
+        <title>Eetun ja Pertun pääsivu</title>
+    <head>
+</body>
+    <a href="a.html"> Eka sivu </a>
+    <a href="b.html"> Toka sivu </a>
+</body>
+</html>
