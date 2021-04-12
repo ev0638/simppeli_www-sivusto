@@ -1,3 +1,3 @@
 # simppeli_www-sivusto
 
-Perttu Hyvärinen
+Eetu Veneskoski ja Perttu Hyvärinen
